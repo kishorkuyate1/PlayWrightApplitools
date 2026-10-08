@@ -1,0 +1,9 @@
+2026-10-08 22:50:38 [info] [E2E Verify the Cust Details] Step 1: logging in as standard_user (from .env)
+2026-10-08 22:50:38 [info] [Login] Open Login Page
+2026-10-08 22:50:52 [info] [Login] loginAs standard_user
+2026-10-08 22:50:59 [info] [E2E Verify the Cust Details] Step 2: Fetching customer details
+2026-10-08 22:50:59 [info] [custDetails] UserData
+2026-10-08 22:51:58 [info] [E2E Verify the Cust Details] User Name: Jack Gomez
+2026-10-08 22:51:58 [info] [E2E Verify the Cust Details] User Type: 
+2026-10-08 22:51:58 [info] [E2E Verify the Cust Details] Step 3: Verifying customer name
+2026-10-08 22:51:58 [info] [E2E Verify the Cust Details] Step 4: Verifying customer type

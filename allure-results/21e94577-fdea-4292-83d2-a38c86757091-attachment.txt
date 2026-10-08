@@ -1,0 +1,4 @@
+2026-10-07 09:46:14 [info] [Login.spec] Opening the TTACart login page
+2026-10-07 09:46:14 [info] [Login] Open Login Page
+2026-10-07 09:46:14 [info] [Login.spec] Logging in as standard_user
+2026-10-07 09:46:14 [info] [Login] loginAs standard_user

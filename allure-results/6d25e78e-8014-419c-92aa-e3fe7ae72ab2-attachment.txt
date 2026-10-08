@@ -1,0 +1,5 @@
+2026-10-08 23:21:27 [info] [E2E Verify the Financial Overview] Step 1: logging in as standard_user (from .env)
+2026-10-08 23:21:27 [info] [Login] Open Login Page
+2026-10-08 23:21:28 [info] [Login] loginAs standard_user
+2026-10-08 23:21:29 [info] [E2E Verify the Financial Overview] Step 2: Fetch the Deatsils
+2026-10-08 23:21:29 [info] [FinanceData] Finance
